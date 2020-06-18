@@ -1,0 +1,8 @@
+/* Makes sure footer stays at bottom of viewport */
+.wrap {
+    display: flex;
+    flex-flow: column nowrap;
+    height: 78vh;
+    justify-content: center;
+    align-items: center;
+}
